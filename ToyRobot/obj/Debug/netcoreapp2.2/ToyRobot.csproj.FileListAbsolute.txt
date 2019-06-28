@@ -1,0 +1,10 @@
+D:\AmanProjects\Visual_Studio\ToyRobot\ToyRobot\bin\Debug\netcoreapp2.2\ToyRobot.deps.json
+D:\AmanProjects\Visual_Studio\ToyRobot\ToyRobot\bin\Debug\netcoreapp2.2\ToyRobot.runtimeconfig.json
+D:\AmanProjects\Visual_Studio\ToyRobot\ToyRobot\bin\Debug\netcoreapp2.2\ToyRobot.runtimeconfig.dev.json
+D:\AmanProjects\Visual_Studio\ToyRobot\ToyRobot\bin\Debug\netcoreapp2.2\ToyRobot.dll
+D:\AmanProjects\Visual_Studio\ToyRobot\ToyRobot\bin\Debug\netcoreapp2.2\ToyRobot.pdb
+D:\AmanProjects\Visual_Studio\ToyRobot\ToyRobot\obj\Debug\netcoreapp2.2\ToyRobot.csproj.CoreCompileInputs.cache
+D:\AmanProjects\Visual_Studio\ToyRobot\ToyRobot\obj\Debug\netcoreapp2.2\ToyRobot.AssemblyInfoInputs.cache
+D:\AmanProjects\Visual_Studio\ToyRobot\ToyRobot\obj\Debug\netcoreapp2.2\ToyRobot.AssemblyInfo.cs
+D:\AmanProjects\Visual_Studio\ToyRobot\ToyRobot\obj\Debug\netcoreapp2.2\ToyRobot.dll
+D:\AmanProjects\Visual_Studio\ToyRobot\ToyRobot\obj\Debug\netcoreapp2.2\ToyRobot.pdb

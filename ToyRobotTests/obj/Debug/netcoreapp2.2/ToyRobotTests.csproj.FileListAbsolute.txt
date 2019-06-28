@@ -1,0 +1,17 @@
+D:\AmanProjects\Visual_Studio\ToyRobot\ToyRobotTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\AmanProjects\Visual_Studio\ToyRobot\ToyRobotTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\AmanProjects\Visual_Studio\ToyRobot\ToyRobotTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\AmanProjects\Visual_Studio\ToyRobot\ToyRobotTests\bin\Debug\netcoreapp2.2\ToyRobotTests.deps.json
+D:\AmanProjects\Visual_Studio\ToyRobot\ToyRobotTests\bin\Debug\netcoreapp2.2\ToyRobotTests.runtimeconfig.json
+D:\AmanProjects\Visual_Studio\ToyRobot\ToyRobotTests\bin\Debug\netcoreapp2.2\ToyRobotTests.runtimeconfig.dev.json
+D:\AmanProjects\Visual_Studio\ToyRobot\ToyRobotTests\bin\Debug\netcoreapp2.2\ToyRobotTests.dll
+D:\AmanProjects\Visual_Studio\ToyRobot\ToyRobotTests\bin\Debug\netcoreapp2.2\ToyRobotTests.pdb
+D:\AmanProjects\Visual_Studio\ToyRobot\ToyRobotTests\bin\Debug\netcoreapp2.2\ToyRobot.dll
+D:\AmanProjects\Visual_Studio\ToyRobot\ToyRobotTests\bin\Debug\netcoreapp2.2\ToyRobot.pdb
+D:\AmanProjects\Visual_Studio\ToyRobot\ToyRobotTests\obj\Debug\netcoreapp2.2\ToyRobotTests.csprojAssemblyReference.cache
+D:\AmanProjects\Visual_Studio\ToyRobot\ToyRobotTests\obj\Debug\netcoreapp2.2\ToyRobotTests.csproj.CoreCompileInputs.cache
+D:\AmanProjects\Visual_Studio\ToyRobot\ToyRobotTests\obj\Debug\netcoreapp2.2\ToyRobotTests.AssemblyInfoInputs.cache
+D:\AmanProjects\Visual_Studio\ToyRobot\ToyRobotTests\obj\Debug\netcoreapp2.2\ToyRobotTests.AssemblyInfo.cs
+D:\AmanProjects\Visual_Studio\ToyRobot\ToyRobotTests\obj\Debug\netcoreapp2.2\ToyRobotTests.csproj.CopyComplete
+D:\AmanProjects\Visual_Studio\ToyRobot\ToyRobotTests\obj\Debug\netcoreapp2.2\ToyRobotTests.dll
+D:\AmanProjects\Visual_Studio\ToyRobot\ToyRobotTests\obj\Debug\netcoreapp2.2\ToyRobotTests.pdb
