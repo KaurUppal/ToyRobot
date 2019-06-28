@@ -7,6 +7,8 @@ namespace ToyRobot
     
     public class CommandFunctions
     {
+        private int tableBoundryMax = 4;
+        private int tableBoundryMin = 0;
         private int xValue;
         public int XValue
         {
@@ -46,7 +48,7 @@ namespace ToyRobot
 
         public bool Place(int x, int y, EnumFaces face)
         {
-            if ((x < 0 || x > 4) || (y < 0 || y > 4))
+            if ((x < tableBoundryMin || x > tableBoundryMax) || (y < tableBoundryMin || y > tableBoundryMax))
             {
                 return false;
             }
@@ -66,16 +68,16 @@ namespace ToyRobot
             switch (CurrentFace)
             {
                 case EnumFaces.NORTH:
-                    if(YValue != 4) YValue++;
+                    if(YValue < tableBoundryMax) YValue++;
                     break;
                 case EnumFaces.SOUTH:
-                    if (YValue != 0) YValue--;
+                    if (YValue > tableBoundryMin) YValue--;
                     break;
                 case EnumFaces.WEST:
-                    if (XValue != 0) XValue--;
+                    if (XValue > tableBoundryMin) XValue--;
                     break;
                 case EnumFaces.EAST:
-                    if (XValue != 4) XValue++;
+                    if (XValue < tableBoundryMax) XValue++;
                     break;
                 default:
                     returnValue = false;
@@ -110,7 +112,7 @@ namespace ToyRobot
 
         public void Report()
         {
-            Console.WriteLine("Output: {0},{1},{2}", XValue, YValue, CurrentFace);
+            Console.WriteLine("Output: {tableBoundryMin},{1},{2}", XValue, YValue, CurrentFace);
         }      
     }
 }

@@ -8,3 +8,4 @@ D:\AmanProjects\Visual_Studio\ToyRobot\ToyRobot\obj\Debug\netcoreapp2.2\ToyRobot
 D:\AmanProjects\Visual_Studio\ToyRobot\ToyRobot\obj\Debug\netcoreapp2.2\ToyRobot.AssemblyInfo.cs
 D:\AmanProjects\Visual_Studio\ToyRobot\ToyRobot\obj\Debug\netcoreapp2.2\ToyRobot.dll
 D:\AmanProjects\Visual_Studio\ToyRobot\ToyRobot\obj\Debug\netcoreapp2.2\ToyRobot.pdb
+D:\AmanProjects\Visual_Studio\ToyRobot\ToyRobot\obj\Debug\netcoreapp2.2\ToyRobot.csprojAssemblyReference.cache

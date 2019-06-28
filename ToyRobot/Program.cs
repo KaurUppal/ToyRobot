@@ -6,14 +6,18 @@ namespace ToyRobot
     {
         private static void PlaceConsole(CommandFunctions command,string placeDetails)
         {
-            
-            string[] placeArray = placeDetails.Split(" ");
-            string[] otherValues = placeArray[1].Split(",");
-            int x ,y;
-            int.TryParse(otherValues[0], out x);
-            int.TryParse(otherValues[1], out y);
-            EnumFaces direction = (EnumFaces)Enum.Parse(typeof(EnumFaces), otherValues[2]);
-            command.Place(x, y, direction);
+            if (placeDetails.Contains("place".ToUpper()))
+            {
+                string[] placeArray = placeDetails.Split(" ");
+                string[] otherValues = placeArray[1].Split(",");
+                int x, y;
+                int.TryParse(otherValues[0], out x);
+                int.TryParse(otherValues[1], out y);
+                EnumFaces direction = (EnumFaces)Enum.Parse(typeof(EnumFaces), otherValues[2]);
+                var result = command.Place(x, y, direction);
+                if (!result) Console.WriteLine("Please place the robot in table boundry");
+            }
+            else Console.WriteLine("Please place the robot in table boundry first");
         }
         private static void Commands(String command, CommandFunctions commandFunctions)
         {

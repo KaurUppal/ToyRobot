@@ -39,6 +39,8 @@ REPORT
 
 To build the project in visual studio go to  menubar=>view=>SolutionExplorer=>rtClick=>Build.
 To Run the Tests in Vusual Studio go to menubar=>Test>Run=>All Teasts.
+To Run the given inteface in Visual Studio, on the top simply run it.
+To run in command line cd to the path => ToyRobot\ToyRobot\bin\Debug\netcoreapp2.2
+and use the command => dotnet ToyRobot.dll.
+
  
-"# ToyRobot" 
-"# ToyRobot" 
